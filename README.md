@@ -1,4 +1,4 @@
-# [React Argon Design PRO](https://appseed.us/product/argon-design-system-pro/full-stack/)
+# [React Argon Design PRO](https://appseed.us/product/argon-design-system-pro/full-stack/) `fullstack`
 
 Start your Development with an Innovative Admin Template for **Argon Design System** and **React**. `Argon Design PRO PReact` is built with over 100 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
@@ -20,7 +20,7 @@ Start your Development with an Innovative Admin Template for **Argon Design Syst
 
 <br />
 
-## Argon Design PRO
+## ✨ [React Argon Design PRO](https://appseed.us/product/argon-design-system-pro/full-stack/)
 
 > 👉 **Fully Coded components**
 
